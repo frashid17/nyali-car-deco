@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db = 'nyali_db';
 $user = 'root';
-$pass = '';
+$pass = 'Mehrunissa@2012';
 
 $conn = new mysqli($host, $user, $pass, $db);
 

@@ -1,4 +1,3 @@
-</div>
 <nav class="navbar navbar-dark bg-dark navbar-expand d-md-none fixed-bottom border-top">
     <ul class="navbar-nav nav-justified w-100">
         <li class="nav-item">
@@ -53,6 +52,3 @@
         localStorage.setItem('darkMode', enabled ? 'enabled' : 'disabled');
     });
 </script>
-
-</body>
-</html>
